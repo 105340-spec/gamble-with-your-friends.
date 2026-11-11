@@ -1,0 +1,155 @@
+body {
+    background-color: rgba(32, 33, 36, 1);
+}
+
+.home-button {
+    position: relative;
+    right: 225px;
+    top: 15px;
+}
+
+.next-button {
+    position: relative;
+    top: 600px;
+    left: 885px;
+}
+
+.back-button {
+    position: relative;
+    top: 600px;
+    left: 410px;
+}
+
+#loan-shark {
+    position: absolute;
+    top: 60px;
+    right: 985px;
+    width: 200px;
+    height: 270px;
+}
+
+#itemdealer {
+    position: absolute;
+    top: 340px;
+    right: 667px;
+    width: 200px;
+    height: 270px;
+}
+
+#blackjackdealer {
+    position: absolute;
+    top: 60px;
+    right: 315px;
+    width: 200px;
+    height: 270px;
+}
+
+#title-characters {
+    position: absolute;
+    width: 430px;
+    height: 40px;
+    top: 5px;
+    right: 523px;
+    background-color: rgba(214, 179, 106, 1);
+    border: 3px solid black;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    border-radius: 25px;
+}
+
+#title-shark {
+    position: absolute;
+    width: 175px;
+    height: 20px;
+    top: 330px;
+    right: 985px;
+    background-color: rgba(214, 179, 106, 1);
+    border: 3px solid black;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    font-size: 19px;
+    text-transform: capitalize;
+    border-radius: 25px;
+}
+
+#title-item {
+    position: absolute;
+    width: 175px;
+    height: 20px;
+    top: 295px;
+    right: 667px;
+    background-color: rgba(214, 179, 106, 1);
+    border: 3px solid black;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    font-size: 19px;
+    text-transform: capitalize;
+    border-radius: 25px;
+}
+
+#title-blackjack {
+    position: absolute;
+    width: 175px;
+    height: 20px;
+    top: 330px;
+    right: 315px;
+    background-color: rgba(214, 179, 106, 1);
+    border: 3px solid black;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    font-size: 19px;
+    text-transform: capitalize;
+    border-radius: 25px;
+}
+
+#box-shark {
+    position: absolute;
+    top: 375px;
+    right: 985px;
+    width: 175px;
+    height: 200px;
+    background-color: rgba(139, 30, 36, 1);
+    border: 3px solid black;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 25px;
+}
+
+#box-item {
+    position: absolute;
+    top: 70px;
+    right: 667px;
+    width: 175px;
+    height: 200px;
+    background-color: rgba(139, 30, 36, 1);
+    border: 3px solid black;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 25px;
+}
+
+#box-blackJack {
+    position: absolute;
+    top: 375px;
+    right: 315px;
+    width: 175px;
+    height: 200px;
+    background-color: rgba(139, 30, 36, 1);
+    border: 3px solid black;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 25px;
+}

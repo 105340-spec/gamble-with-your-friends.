@@ -1,0 +1,30 @@
+body {
+    background-image: url(images/image\ 5.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+div>img:first-child {
+    position: fixed;
+    margin-left: 570px;
+    width: 370px;
+}
+
+.home-button {
+    position: relative;
+    right: 225px;
+    top: 15px;
+}
+
+.next-button {
+    position: relative;
+    top: 600px;
+    left: 885px;
+}
+
+.back-button {
+    position: relative;
+    top: 600px;
+    left: 410px;
+}
